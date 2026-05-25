@@ -1,6 +1,6 @@
-# E-Commerce Analytics Dashboard
+# 🛒 E-Commerce Analytics Dashboard
 
-## Project Overview
+## 📌 Project Overview
 
 This project focuses on analyzing e-commerce business performance using Python, SQL, and Power BI. The objective of this project is to extract meaningful business insights from raw transactional data and visualize them through an interactive dashboard.
 
@@ -14,7 +14,7 @@ KPI Monitoring & Visualization
 
 ---
 
-## Dataset Source
+## 📊 Dataset Source
 
 The dataset used in this project was obtained from Kaggle:
 
@@ -37,7 +37,7 @@ The analysis uses the following tables:
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 * Python
 * SQL

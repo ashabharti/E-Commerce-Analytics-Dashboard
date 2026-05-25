@@ -85,7 +85,8 @@ The analysis uses the following tables:
 ---
 
 ## Dashboard Preview
-![Dashboard] (Ecommerce_Analytics_Dashboard.jpg)
+
+![Dashboard](Ecommerce_Analytics_Dashboard.jpg)
 
 ## Python Visualizations
 

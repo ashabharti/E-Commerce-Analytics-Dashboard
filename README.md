@@ -85,7 +85,7 @@ The analysis uses the following tables:
 ---
 
 ## Dashboard Preview
-![Dashboard](https://github.com/ashabharti/ecommerce_data_analysis/blob/3c6f86d54d91598d12d5cef680204496160f8e6d/Ecommerce_Analytics_Dashboard.pdf)
+![Dashboard] (Ecommerce_Analytics_Dashboard.jpg)
 
 ## Python Visualizations
 

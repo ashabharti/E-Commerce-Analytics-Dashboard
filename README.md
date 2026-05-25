@@ -1,11 +1,16 @@
-# E-Commerce Data Analysis
+# E-Commerce Analytics Dashboard
 
 ## Project Overview
 
-This project analyzes a multi-table e-commerce dataset to understand sales performance, customer behavior, and product trends.
-The goal is to extract meaningful insights using **SQL and Python** to support data-driven decision making in an online retail environment.
+This project focuses on analyzing e-commerce business performance using Python, SQL, and Power BI. The objective of this project is to extract meaningful business insights from raw transactional data and visualize them through an interactive dashboard.
 
-The dataset includes transactional, behavioral, and review data from an e-commerce platform.
+The project demonstrates:
+
+Data Cleaning & Analysis
+Exploratory Data Analysis (EDA)
+SQL-based Business Insights
+Interactive Dashboard Development
+KPI Monitoring & Visualization
 
 ---
 
@@ -32,15 +37,14 @@ The analysis uses the following tables:
 
 ---
 
-## Tools & Technologies
+## Tech Stack
 
 * Python
 * SQL
+* Power BI
 * Pandas
 * Matplotlib
 * Seaborn
-* Jupyter Notebook
-
 ---
 
 ## Project Workflow
@@ -80,7 +84,10 @@ The analysis uses the following tables:
 
 ---
 
-## Visualizations
+## Dashboard Preview
+![Dashboard] (Ecommerce_Analytics_Dashboard.png)
+
+## Python Visualizations
 
 ### Monthly Order Trend
 
@@ -92,16 +99,74 @@ The analysis uses the following tables:
 
 ---
 
-## Key Insights
+# 📌 Key Metrics
 
-* Certain product categories contribute significantly to total platform revenue.
-* A small percentage of products generate a large share of total sales.
-* Most customers make only one purchase, indicating opportunities to improve customer retention strategies.
-* User engagement is highest at the product browsing stage, with fewer users proceeding to cart actions.
-* Most product ratings fall within medium to high ranges, suggesting generally positive customer feedback.
+- **Total Sales:** 11.92M
+- **Total Orders:** 20K
+- **Total Customers:** 10K
+- **Average Order Value:** 595.93
 
+---
 
-## Conclusion
+# 📊 Dashboard Features
 
-This analysis highlights important product trends, customer purchasing patterns, and engagement behaviors in the e-commerce platform.
-The insights can help businesses optimize product strategies, improve marketing efforts, and enhance customer retention.
+- Monthly Sales Trend Analysis
+- Category-wise Revenue Analysis
+- Top Selling Products
+- Customer Insights
+- KPI Monitoring
+- Interactive Filters & Slicers
+- Business Performance Tracking
+
+---
+
+# 🔍 Analysis Performed
+
+## Python Analysis
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Sales Analysis
+- Customer Behavior Analysis
+- Product Performance Analysis
+
+## SQL Analysis
+- Revenue Analysis
+- Category-wise Sales Analysis
+- Customer Spending Analysis
+- Top Product Analysis
+- KPI Calculations
+
+## Power BI Dashboard
+- KPI Visualization
+- Interactive Dashboard Creation
+- Dynamic Filtering
+- Business Insight Reporting
+
+---
+
+# 📈 Key Insights
+
+- Electronics category generated the highest revenue.
+- Sales remained stable across most months.
+- Top-performing products contributed significantly to total sales.
+- Customer purchase analysis helped identify loyal customers.
+- Category-wise analysis highlighted profitable business segments.
+
+---
+
+# 💡 Skills Demonstrated
+
+- Data Analysis
+- Data Visualization
+- Business Intelligence
+- SQL Querying
+- Dashboard Development
+- Exploratory Data Analysis
+- KPI Reporting
+- Data Cleaning & Preprocessing
+
+---
+
+# 🎯 Conclusion
+
+This project demonstrates an end-to-end data analytics workflow using Python, SQL, and Power BI to transform raw e-commerce data into meaningful business insights and interactive visualizations.

@@ -24,27 +24,35 @@ The dataset consists of multiple related tables representing different aspects o
 
 ---
 
-## Dataset Tables
+## Dataset Summary
 
-The analysis uses the following tables:
+The analysis was performed across 6 relational datasets containing approximately 170K records.
 
-* **users** – customer information such as gender, city, and signup date
-* **products** – product details including category, brand, price, and rating
-* **orders** – order transactions and order status
-* **order_items** – individual products included in each order
-* **events** – user interactions such as product views and cart actions
-* **reviews** – customer ratings and written feedback
+| Table | Records |
+|---------|---------:|
+| Events | 80K+ |
+| Order Items | 43K+ |
+| Orders | 20K+ |
+| Reviews | 15K+ |
+| Users | 10K+ |
+| Products | 2K+ |
 
 ---
 
 ## 🚀 Tech Stack
 
-* Python
-* SQL
-* Power BI
-* Pandas
-* Matplotlib
-* Seaborn
+### Data Analysis
+- Python
+- Pandas
+
+### SQL & Data Warehousing
+- SQL
+- Google BigQuery
+
+### Visualization
+- Power BI
+- Matplotlib
+- Seaborn
 ---
 
 ## Project Workflow
@@ -61,26 +69,32 @@ The analysis uses the following tables:
 ## Analysis Performed
 
 ### Sales Analysis
+- Total Revenue Analysis
+- Average Order Value (AOV)
+- Monthly Order Trend Analysis
+- Order Status Distribution
 
-* Total revenue calculation
-* Average order value
-* Monthly order trends
+### Product Analytics
+- Top Selling Products
+- Revenue by Category
+- Revenue by Brand
+- Product Rating Analysis
+- Product Rating vs Sales Analysis
 
-### Product Performance
+### Customer Analytics
+- Customer Purchase Frequency
+- Top Customers by Spending
+- Customer Segmentation (Low, Medium, High Value)
+- City-wise Customer Distribution
 
-* Top-selling products
-* Revenue contribution by product categories
-* Brand-level revenue analysis
+### User Behavior Analytics
+- User Engagement Analysis
+- Event Distribution Analysis
+- Funnel Analysis (Views → Cart)
 
-### Customer Behavior
-
-* Customer purchase frequency
-* Identification of high-value customers
-
-### Review Analysis
-
-* Rating distribution
-* Average product ratings
+### Review Analytics
+- Rating Distribution
+- Average Product Ratings
 
 ---
 
@@ -117,7 +131,7 @@ The analysis uses the following tables:
 - Customer Insights
 - KPI Monitoring
 - Interactive Filters & Slicers
-- Business Performance Tracking
+- Business Performance Monitoring
 
 ---
 
@@ -147,11 +161,11 @@ The analysis uses the following tables:
 
 # 📈 Key Insights
 
-- Electronics category generated the highest revenue.
-- Sales remained stable across most months.
-- Top-performing products contributed significantly to total sales.
-- Customer purchase analysis helped identify loyal customers.
-- Category-wise analysis highlighted profitable business segments.
+- Electronics generated the highest revenue among all product categories.
+- A small group of high-value customers contributed a significant share of total revenue.
+- Customer purchase frequency analysis highlighted repeat buying patterns.
+- Product ratings showed variations across categories and brands.
+- User engagement analysis revealed differences between product views and cart activities.
 
 ---
 
